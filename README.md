@@ -7,3 +7,7 @@ Opinión 1: Aprendí que Git es una herramienta muy útil para clonar repositori
 y para controlar versiones de nuestros proyectos. Me pareció interesante cómo podemos ver el historial
 de cambios y trabajar.
 
+Opinión 2: Aprendí que Git es una herramienta que nos ayuda a controlar todo desde la consola de Git Bash
+desde clonar repositorios hasta modificarlos y volverlos a subir a GitHub
+
+
