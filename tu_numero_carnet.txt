@@ -1,0 +1,13 @@
+¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+Aprendimos que el flujo de trabajo con Git y GitHub se trata de una serie de pasos para organizar cómo se hacen los cambios de un proyecto
+y cómo se comparten con otros.
+
+¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+La experiencia de trabajo fue buena ya que aprendimos mucho sobre como como utilizar las herrramientas de Git y GitHub.
+Y uno de los conflictos que tuvimos fue que no sabiamos actualizar el README.md de manera local, esto lo resolvimos utilizando
+un comando el cual es: "git pull origin main" y el otro conflicto es que se nos dificicultó aprender sobre Git y GitHub ya que
+ nunca hemos utilizado estas herramientas de trabajo, esto lo resolvimos apoyandonos de inteligencias artificiales y videos.
+
+¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+Nosotros pensamos que Git tiene muchas ventajas para los proyectos de programación como por ejemplo: control de versiones,
+trabajo en equipo, organizacion y seguridad.
